@@ -8,7 +8,7 @@ body{
     }
     section{
     	width:100%;
-    	height:160vh;
+    	height:200vh;
     	background-size:cover;
     	background-repeat:no-repeat;
     	position: relative;
@@ -27,7 +27,7 @@ body{
     	padding: 100px 9%;
 		float: inherit;
 		font size: 19px;
-		font-family: cursive;
+		font-family: 'Lobster', cursive;;
 		font-weight:bold;
 		min-width: 300px
     	
@@ -72,7 +72,7 @@ section nav ul li
     	transition:all ease 0.5s;
 }
     .logo{
-    	font-family:RoadTest;
+    	font-family:'Lobster', cursive;;
     	color:#000000;
     	font-size: 22px;
     }
@@ -93,14 +93,14 @@ section nav ul li
     	transform: translateX(-75%);
     }
     .text-container p:nth-child(1){
-    	font-family: cursive;
+    	font-family: 'Lobster', cursive;;
     	font-weight:bold;
     	color:#666666;
     	font-size:60px;
 		line-height: 2;
     }
     .text-container p:nth-child(2){
-    	font-family:cursive;
+    	font-family:'Lobster', cursive;;
     	font-weight:bold;
     	letter-spacing:1px;
     	color:#fff;
